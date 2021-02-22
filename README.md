@@ -1,4 +1,4 @@
-﻿# Java-GUI-Projects
+﻿# Java GUI Projects
 
 Java GUI Projects implemented using Java GUI libraries.
 
