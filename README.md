@@ -6,4 +6,4 @@ The repository contains:
 - Snake Game
 - Paint App
 
-Use Main.java files to fun the application.
+Use Main.java files to run the applications.
